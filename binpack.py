@@ -1,8 +1,3 @@
-# Name: Becky Chao
-# Class: CS325
-# Assigmnent: HW8
-# Date: 26 November 2018
-
 # Description: This program uses three greedy approximation algorithms to solve a 
 # bin packing problem: how to fit items into bins with an alloted weight? Reading
 # a source file provided by the user, the program will output how many bins should
